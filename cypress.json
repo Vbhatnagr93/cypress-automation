@@ -1,0 +1,16 @@
+{
+  "modifyObstructiveCode": true,
+  "experimentalSourceRewriting": true,
+  "chromeWebSecurity": true,
+  "defaultCommandTimeout": 9000,
+  "env": {
+    "url": "https://www.rahulshettyacademy.com"
+  },
+"retries":{
+    "runMode": 1
+},
+"testFiles": "**/*.feature",
+
+  "projectId": "vhsfu7",
+  "reporter": "mochawesome"
+}
